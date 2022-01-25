@@ -251,8 +251,8 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'https://test1-backend-api.herokuapp.com/todos',
-      'https://staging.example.com',
+      'https://test1-backend-api.herokuapp.com',
+      'https://test1-backend-api.herokuapp.com',
     ],
 
 
